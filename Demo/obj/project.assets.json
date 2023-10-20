@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\toanh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\toanh\\OneDrive\\Tài liệu\\GitHub\\Demo\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\obj\\",
+      "projectPath": "C:\\Users\\toanh\\OneDrive\\Tài liệu\\GitHub\\Demo\\Demo\\Demo.csproj",
+      "packagesPath": "C:\\Users\\toanh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\toanh\\OneDrive\\Tài liệu\\GitHub\\Demo\\Demo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\toanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
