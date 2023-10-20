@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj": {}
+    "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj": {
+    "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\Demo.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Demo\\Demo\\obj\\",
+        "projectPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\Demo.csproj",
+        "packagesPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Source\\Repos\\Demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
